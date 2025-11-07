@@ -76,6 +76,13 @@ Accurate digit recognition is essential for automating processes such as check p
 
 ---
 
+To Run the code :
+1. Install the Python modules : pip install -r requirements.txt
+2. Train the model : python train_model.py OR python3 train_model.py
+3. Once the training is done , Run the GUI code: python tkinter_gui.py or python3 tkinter_gui.py
+
+
+
 ## Real-Time Application
 A **Graphical User Interface (GUI)** was developed using `Tkinter`:
 - **Features**:
